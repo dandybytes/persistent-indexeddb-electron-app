@@ -1,0 +1,20 @@
+{
+  "name": "persistent-indexeddb-electron-app",
+  "version": "1.0.0",
+  "description": "Basic Electron app with persistent IndexedDB storage",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/dandybytes/persistent-indexeddb-electron-app",
+  "keywords": [
+    "Electron",
+    "IndexedDB"
+  ],
+  "author": "dandybytes",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^15.1.2"
+  },
+  "devDependencies": {}
+}

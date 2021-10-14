@@ -14,6 +14,7 @@
   "author": "dandybytes",
   "license": "MIT",
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "electron": "^15.1.2"
   },
   "devDependencies": {}
